@@ -3,3 +3,5 @@
 -estado del proyecto en construccion
 -para ejecutar el sitema debes de codificar:
 -''''npm install react''
+
+sistema de registro 2
